@@ -1,2 +1,2 @@
-# DTTM-APPS
-DTTM Apps Open Source Codes
+**DTTM-APPS**
+Открытый код, приложения нормального качества
